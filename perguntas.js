@@ -5,13 +5,13 @@ criaCartao(
 )
 
 criaCartao(
-    'agro',
+    'Agro',
     'Qual o nome do maior trator do mundo?',
     'Big Bud'
 )
 
 criaCartao(
-    'agro',
+    'Agro',
     'Qual o pais é o maior produtor de trigo no mundo?',
     'China'
 )
