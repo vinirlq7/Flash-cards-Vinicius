@@ -21,4 +21,3 @@ criaCartao(
     'Qual o melhor produtor de soja do mundo?',
     'Brasil'
 )
-
